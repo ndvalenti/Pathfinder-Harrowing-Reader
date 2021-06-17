@@ -1,0 +1,56 @@
+[
+   {
+      "id":0,
+      "name":"Hammers",
+      "domain":"War, Battle, Honor",
+      "ability":"Strength",
+      "harrowing":"to attack roll",
+      "negativeHarrowing":"to all attack rolls",
+      "greaterHarrowing":"<b>+4 to Strength</b> Can reroll any combat maneuver check but must take result of second roll."
+   },
+   {
+      "id":1,
+      "name":"Keys",
+      "domain":"Trouble, Children, Entertainment",
+      "ability":"Dexterity",
+      "harrowing":"to reflex saving throw",
+      "negativeHarrowing":"to all reflex saves",
+      "greaterHarrowing":"<b>+4 to Dexterity</b> Gain Evasion Rogue class feature or Improved Evasion if you already possess Evasion."
+   },
+   {
+      "id":2,
+      "name":"Shields",
+      "domain":"Health, Home, Pain",
+      "ability":"Constitution",
+      "harrowing":"to fortitude saving throw",
+      "negativeHarrowing":"to all fortitude saves",
+      "greaterHarrowing":"<b>+4 to Constitution</b> Gain Fast Healing 1 and do not die until you reach negative hit points equal to double your Constitution."
+   },
+   {
+      "id":3,
+      "name":"Books",
+      "domain":"Money, School, Literature",
+      "ability":"Intelligence",
+      "harrowing":"to skill check",
+      "negativeHarrowing":"to all skill checks",
+      "greaterHarrowing":"<b>+4 to Intelligence</b> Gain ability to use untrained skills as trained with a +3 bonus."
+   },
+   {
+      "id":4,
+      "name":"Stars",
+      "domain":"Ancient History, Morality, The Gods",
+      "ability":"Wisdom",
+      "harrowing":"to will saving throw",
+      "negativeHarrowing":"to all will saves",
+      "greaterHarrowing":"<b>+4 to Wisdom</b> Gain immunity to either charm and compulsion, curse, or fear effects."
+   },
+   {
+      "id":5,
+      "name":"Crowns",
+      "domain":"Love, Family, Politics",
+      "ability":"Charisma",
+      "harrowing":"to any d20 roll",
+      "negativeHarrowing":"to all d20 rolls",
+      "greaterHarrowing":"<b>+4 to Charisma</b> Whenever you succeed at a Diplomacy or Intimidate check to increase a non-hostile creature's attitude toward you that creature's attitude becomes helpful. The creature's attitude reverts at the end of the effect."
+   }
+]

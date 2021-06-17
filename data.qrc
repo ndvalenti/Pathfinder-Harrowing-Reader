@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/cards.json</file>
+        <file>data/suits.json</file>
+        <file>other/style.qss</file>
+        <file>data/spreads.json</file>
+    </qresource>
+</RCC>
